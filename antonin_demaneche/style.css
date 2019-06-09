@@ -1,0 +1,132 @@
+body{
+  font-family : Arial;
+  color: #202b30 !important;
+}
+
+article, .left, .right{
+    padding:1px 0;
+    z-index: 100;
+
+}
+
+article{
+    width: 75%;
+    margin:auto;
+    z-index: 100;
+}
+
+.left{
+    width: 50%;
+    background-color:#202b30 ;
+    color: #d9f3ff;
+
+}
+
+.right{
+    width: 50%;
+    padding-left: 100px;
+    background-color:#dae0e5;
+    padding-bottom:  auto;
+
+
+
+
+}
+
+.profile {
+    max-width: 40%;
+    margin-left: 30%;
+    margin-right: 65%;
+    margin-top: 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #d9f3ff;
+}
+
+
+h1 {
+    text-align: center;}
+
+#info{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.info1{
+    font-size: 15px;
+    text-align: center;
+    line-height: 8px;
+}
+
+.competencetitle{
+    background-color:#d9f3ff ;
+    color: #202b30;
+    max-width: 30%;
+    margin: 15px auto 0;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 20px;
+
+
+}
+
+.competence{
+    background-color:#d9f3ff ;
+    color: #202b30;
+    max-width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 14px
+
+
+}
+.taille{
+    max-width: 400px;
+}
+
+#trait
+{
+    background-color:#d9f3ff ;
+    height: 1pt;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#trait2
+{
+    background-color: #d9f3ff;
+    height: 1pt;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#centre{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    line-height: 15px;
+
+}
+
+#info2{
+    text-align: center;
+    word-wrap: break-word;
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer {
+    background-color:#c8cbcf;
+    text-align:center;
+    clear:both;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+
+}
